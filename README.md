@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/e6/7c/5f/e67c5fec3669604e5bfe50605fc500fb.jpg"/>
+<img src="https://i.pinimg.com/564x/b2/65/04/b26504e69d893aa6816d3133a4bca910.jpg"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzzhafo" alt="zzzhafo" /></a> </p>
 
